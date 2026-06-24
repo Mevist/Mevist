@@ -10,6 +10,14 @@ Hi, I'm **Szymon** — a developer currently focused on building full-stack skil
 
 - I’m also considering contributing to open-source projects and am currently looking for a project that would be a good fit for my skills and interests.
 
+# Tech stack 
+- **Languages:** Java, Kotlin, TypeScript, SQL, HTML, CSS, Python
+- **Backend:** Spring Boot, Spring Security, Hibernate, JUnit
+- **Frontend:** React, Tailwind CSS
+- **Messaging:** RabbitMQ, ActiveMQ
+- **DevOps / Infrastructure:** Docker, Kubernetes, AWS, TerraForm
+- **Tools:** Git, Postman, SoapUI, DBeaver, IntelliJ IDEA, Jira
+
 ## Contact
 
 - Email: szymon.szczench@gmail.com
